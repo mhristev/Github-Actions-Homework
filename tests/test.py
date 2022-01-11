@@ -1,6 +1,6 @@
 import requests
 from main import Temperatures
-import unittest
+import unittest 
 
 
 class TestTemperaturesModel(unittest.TestCase):
