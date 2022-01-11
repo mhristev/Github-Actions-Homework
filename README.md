@@ -1,3 +1,3 @@
 # Github-Actions-Homework
 
-[![Tests](https://github.com/mhristev/Github-Actions-Homework/workflows/python-app/badge.svg)](https://github.com/mhristev/Github-Actions-Homework/actions)
+![Tests](https://github.com/mhristev/Github-Actions-Homework/actions/workflows/python-app/badge.svg)
