@@ -19,7 +19,6 @@ PyQtWebEngine==5.15.5
 requests==2.27.1
 six==1.16.0
 stevedore==3.5.0
-TBB==2021.5.0
 toml==0.10.2
 urllib3==1.26.8
 virtualenv==20.10.0
