@@ -1,5 +1,5 @@
 import requests
-from models.main import Temperatures
+from main import Temperatures
 import unittest 
 
 
